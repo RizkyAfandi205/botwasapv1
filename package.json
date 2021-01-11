@@ -1,7 +1,7 @@
 {
-  "name": "XBOT",
+  "name": "ChocoBot",
   "version": "1.0.0",
-  "description": "TERMUX ONLY XBOT",
+  "description": "Chocolate Gans",
   "main": "index.js",
   "directories": {
     "lib": "lib"
